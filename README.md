@@ -1,4 +1,6 @@
 # Telecom Churn Analysis Dashboard
+<img width="1039" height="578" alt="Screenshot (689)" src="https://github.com/user-attachments/assets/13d916d2-0a9a-43d2-8635-0eb828bee208" />
+
 # Project Overview
 
 This project focuses on analyzing customer churn data to understand why customers leave and which factors contribute most to churn.
